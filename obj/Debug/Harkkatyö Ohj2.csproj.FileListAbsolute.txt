@@ -1,0 +1,52 @@
+C:\Users\harti\source\repos\Harkkatyö Ohj2\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.exe.config
+C:\Users\harti\source\repos\Harkkatyö Ohj2\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.exe
+C:\Users\harti\source\repos\Harkkatyö Ohj2\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.pdb
+C:\Users\harti\source\repos\Harkkatyö Ohj2\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.csprojAssemblyReference.cache
+C:\Users\harti\source\repos\Harkkatyö Ohj2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Properties.Resources.resources
+C:\Users\harti\source\repos\Harkkatyö Ohj2\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.csproj.GenerateResource.cache
+C:\Users\harti\source\repos\Harkkatyö Ohj2\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.csproj.CoreCompileInputs.cache
+C:\Users\harti\source\repos\Harkkatyö Ohj2\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.exe
+C:\Users\harti\source\repos\Harkkatyö Ohj2\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.pdb
+C:\Users\harti\source\repos\Harkkatyö Ohj2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Aloitus.resources
+C:\Users\harti\source\repos\Harkkatyö Ohj2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Helppo.resources
+C:\Users\harti\source\repos\Harkkatyö Ohj2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Keskivaikea.resources
+C:\Users\harti\source\repos\Harkkatyö Ohj2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Vaikea.resources
+C:\Users\Käyttäjä\Downloads\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.exe.config
+C:\Users\Käyttäjä\Downloads\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.exe
+C:\Users\Käyttäjä\Downloads\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.pdb
+C:\Users\Käyttäjä\Downloads\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.csprojAssemblyReference.cache
+C:\Users\Käyttäjä\Downloads\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Aloitus.resources
+C:\Users\Käyttäjä\Downloads\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Helppo.resources
+C:\Users\Käyttäjä\Downloads\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Keskivaikea.resources
+C:\Users\Käyttäjä\Downloads\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Properties.Resources.resources
+C:\Users\Käyttäjä\Downloads\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Vaikea.resources
+C:\Users\Käyttäjä\Downloads\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.csproj.GenerateResource.cache
+C:\Users\Käyttäjä\Downloads\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.csproj.CoreCompileInputs.cache
+C:\Users\Käyttäjä\Downloads\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.exe
+C:\Users\Käyttäjä\Downloads\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.pdb
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.exe.config
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.exe
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.pdb
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.csprojAssemblyReference.cache
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Aloitus.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Helppo.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Keskivaikea.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Properties.Resources.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Vaikea.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.csproj.GenerateResource.cache
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.csproj.CoreCompileInputs.cache
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.exe
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyo_Ohj2.zip (1)\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.pdb
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.exe.config
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.exe
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.pdb
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.csprojAssemblyReference.cache
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Aloitus.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Helppo.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Keskivaikea.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Properties.Resources.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Vaikea.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.csproj.GenerateResource.cache
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.csproj.CoreCompileInputs.cache
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.exe
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.pdb

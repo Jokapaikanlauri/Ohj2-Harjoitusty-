@@ -1,0 +1,306 @@
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.exe.config
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.exe
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.pdb
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2 VK1.1.csprojAssemblyReference.cache
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Aloitus.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Properties.Resources.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.GenerateResource.cache
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.CoreCompileInputs.cache
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.exe
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.pdb
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kahdeksan.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kymmenen.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksitoista.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Neljätoista.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kuusitoista.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kahdeksantoista.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentä.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkaksi.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäneljä.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkuusi.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolkytkasi.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentä.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkaksi.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäneljä.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkuusi.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkahdeksan.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Neljäkymmentä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.exe.config
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.exe
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.pdb
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2 VK1.1.csprojAssemblyReference.cache
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Aloitus.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kahdeksan.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kymmenen.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksitoista.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Neljätoista.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kuusitoista.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kahdeksantoista.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkaksi.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäneljä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkuusi.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkahdeksan.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkaksi.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäneljä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkuusi.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkahdeksan.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Neljäkymmentä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Properties.Resources.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.GenerateResource.cache
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.CoreCompileInputs.cache
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.exe
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.2\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.pdb
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.exe.config
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.exe
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.pdb
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2 VK1.1.csprojAssemblyReference.cache
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Aloitus.resources
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kahdeksan.resources
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kymmenen.resources
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksitoista.resources
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Neljätoista.resources
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kuusitoista.resources
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kahdeksantoista.resources
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentä.resources
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkaksi.resources
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäneljä.resources
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkuusi.resources
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkahdeksan.resources
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentä.resources
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkaksi.resources
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäneljä.resources
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkuusi.resources
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkahdeksan.resources
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Neljäkymmentä.resources
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Properties.Resources.resources
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.GenerateResource.cache
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.CoreCompileInputs.cache
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.exe
+C:\Users\harti\OneDrive\Työpöytä\Ohjelmointi 2 harkkatyö\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.pdb
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.exe.config
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.exe
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.pdb
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2 VK1.1.csprojAssemblyReference.cache
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Aloitus.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kahdeksan.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kymmenen.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksitoista.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Neljätoista.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kuusitoista.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kahdeksantoista.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkaksi.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäneljä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkuusi.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkahdeksan.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkaksi.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäneljä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkuusi.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkahdeksan.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Neljäkymmentä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Properties.Resources.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.GenerateResource.cache
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.CoreCompileInputs.cache
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.exe
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 1.3\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.pdb
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2 VK1.1.csprojAssemblyReference.cache
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.exe
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.pdb
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.exe.config
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.exe
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.pdb
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Aloitus.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kahdeksan.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kymmenen.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksitoista.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Neljätoista.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kuusitoista.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kahdeksantoista.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentä.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkaksi.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäneljä.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkuusi.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkahdeksan.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentä.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkaksi.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäneljä.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkuusi.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkahdeksan.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Neljäkymmentä.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Properties.Resources.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.GenerateResource.cache
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.CoreCompileInputs.cache
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 2.5 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2 VK1.1.csprojAssemblyReference.cache
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 2.5 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.exe
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 2.5 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2 2.0 10.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.pdb
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\bin\Debug\Harkkatyö Ohj2.exe.config
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\bin\Debug\Harkkatyö Ohj2.exe
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\bin\Debug\Harkkatyö Ohj2.pdb
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö Ohj2 VK1.1.csprojAssemblyReference.cache
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Aloitus.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kahdeksan.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kymmenen.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksitoista.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Neljätoista.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kuusitoista.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kahdeksantoista.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkaksi.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäneljä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkuusi.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkahdeksan.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkaksi.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäneljä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkuusi.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkahdeksan.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Neljäkymmentä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Properties.Resources.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.GenerateResource.cache
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.CoreCompileInputs.cache
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö Ohj2.exe
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö Ohj2.pdb
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\bin\Debug\Harkkatyö Ohj2.exe.config
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\bin\Debug\Harkkatyö Ohj2.exe
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\bin\Debug\Harkkatyö Ohj2.pdb
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö Ohj2 VK1.1.csprojAssemblyReference.cache
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Aloitus.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kahdeksan.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kymmenen.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksitoista.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Neljätoista.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kuusitoista.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kahdeksantoista.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentä.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkaksi.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäneljä.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkuusi.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkahdeksan.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentä.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkaksi.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäneljä.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkuusi.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkahdeksan.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Neljäkymmentä.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Properties.Resources.resources
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.GenerateResource.cache
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.CoreCompileInputs.cache
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö Ohj2.exe
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö Ohj2.pdb
+C:\Kouluhommat\Harkkatyö Ohj2\Harkkatyö Ohj2 3.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Tilastot.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö Ohj2 VK1.1.csprojAssemblyReference.cache
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö Ohj2.exe
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö Ohj2.pdb
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\bin\Debug\Harkkatyö Ohj2.exe.config
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\bin\Debug\Harkkatyö Ohj2.exe
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\bin\Debug\Harkkatyö Ohj2.pdb
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Aloitus.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kahdeksan.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kymmenen.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksitoista.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Neljätoista.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kuusitoista.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kahdeksantoista.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkaksi.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäneljä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkuusi.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkahdeksan.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkaksi.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäneljä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkuusi.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkahdeksan.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Neljäkymmentä.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Properties.Resources.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Tilastot.resources
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.GenerateResource.cache
+C:\Users\Käyttäjä\OneDrive\Työpöytä\Savonia\Ohjelmointi II ja III\Harjoitustyö\Harkkatyö Ohj2 4.0 (kopiovalmis)\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.CoreCompileInputs.cache
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö Ohj2 VK1.1.csprojAssemblyReference.cache
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö Ohj2.exe
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö Ohj2.pdb
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\bin\Debug\Harkkatyö Ohj2.exe.config
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\bin\Debug\Harkkatyö Ohj2.exe
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\bin\Debug\Harkkatyö Ohj2.pdb
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Aloitus.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kahdeksan.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kymmenen.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksitoista.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Neljätoista.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kuusitoista.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kahdeksantoista.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentä.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkaksi.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäneljä.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkuusi.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkahdeksan.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentä.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkaksi.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäneljä.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkuusi.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkahdeksan.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Neljäkymmentä.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Properties.Resources.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö_Ohj2.Tilastot.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.GenerateResource.cache
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 3.0\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.CoreCompileInputs.cache
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\bin\Debug\Harkkatyö Ohj2.exe.config
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\bin\Debug\Harkkatyö Ohj2.exe
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\bin\Debug\Harkkatyö Ohj2.pdb
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö Ohj2 VK1.1.csprojAssemblyReference.cache
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Aloitus.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kahdeksan.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kymmenen.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kaksitoista.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Neljätoista.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kuusitoista.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kahdeksantoista.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentä.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkaksi.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäneljä.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkuusi.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkahdeksan.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentä.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkaksi.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäneljä.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkuusi.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkahdeksan.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Neljäkymmentä.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Properties.Resources.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Tilastot.resources
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.GenerateResource.cache
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.CoreCompileInputs.cache
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö Ohj2.exe
+C:\Users\harti\OneDrive\Työpöytä\Harkkatyö Ohj2 5.0\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö Ohj2.pdb
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.AssemblyReference.cache
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.SuggestedBindingRedirects.cache
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö Ohj2.exe
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö Ohj2.pdb
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\bin\Debug\Harkkatyö Ohj2.exe.config
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\bin\Debug\Harkkatyö Ohj2.exe
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\bin\Debug\Harkkatyö Ohj2.pdb
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Aloitus.resources
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kahdeksan.resources
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kymmenen.resources
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kaksitoista.resources
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Neljätoista.resources
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kuusitoista.resources
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kahdeksantoista.resources
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentä.resources
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkaksi.resources
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäneljä.resources
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkuusi.resources
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kaksikymmentäkahdeksan.resources
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentä.resources
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkaksi.resources
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäneljä.resources
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkuusi.resources
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Kolmekymmentäkahdeksan.resources
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Neljäkymmentä.resources
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Properties.Resources.resources
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö_Ohj2.Tilastot.resources
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.GenerateResource.cache
+D:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyö\Harkkatyö OHJ2 palautus\Harkkatyö Ohj2 5.0\obj\Debug\Harkkatyö Ohj2 VK1.1.csproj.CoreCompileInputs.cache

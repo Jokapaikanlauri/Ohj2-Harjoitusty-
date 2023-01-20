@@ -1,0 +1,13 @@
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.exe.config
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.exe
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\bin\Debug\Harkkatyö Ohj2.pdb
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Aloitus.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Helppo.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Keskivaikea.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Properties.Resources.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö_Ohj2.Vaikea.resources
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2 VK1.csproj.GenerateResource.cache
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2 VK1.csproj.CoreCompileInputs.cache
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.exe
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2.pdb
+C:\Kouluhommat\VISUALSTUDIOTEHTÄVÄT\Harkkatyo_Ohj2_-_Laurille_1.11.21\Harkkatyö Ohj2\obj\Debug\Harkkatyö Ohj2 VK1.csprojAssemblyReference.cache
